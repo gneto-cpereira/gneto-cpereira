@@ -17,6 +17,10 @@ I'm a Software Engineering student at 42, currently focusing on **low-level prog
 
 ### 🚀 Featured Projects
 
+#### 📖 [BookOverflow - Digital Library](https://github.com/gneto-cpereira/BookOverflow)
+A personal library for solving a real-life problem.
+- **Key Skills:** JavaScript, Node.js, Docker.
+
 #### 🕸️ [FdF - 3D Wireframe Renderer](https://github.com/gneto-cpereira/cub3D)
 A project about graphical representation of a 3D landscape.
 - **Key Skills:** Bresenham's algorithm, Isometric projection, Dockerization.

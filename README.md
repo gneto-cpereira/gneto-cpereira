@@ -21,6 +21,10 @@ I'm a Software Engineering student at 42, currently focusing on **low-level prog
 A personal library for solving a real-life problem.
 - **Key Skills:** JavaScript, Node.js, Docker.
 
+#### 💻 [C++ Modules - Master of OOP](https://github.com/gneto-cpereira/CPP_Modules)
+A deep dive into the C++98 standard, covering the evolution from basic syntax to advanced STL containers.
+- **Key Skills**: Object-Oriented Programming (OOP), Memory Management, Templates & STL.
+
 #### 🕸️ [FdF - 3D Wireframe Renderer](https://github.com/gneto-cpereira/cub3D)
 A project about graphical representation of a 3D landscape.
 - **Key Skills:** Bresenham's algorithm, Isometric projection, Dockerization.

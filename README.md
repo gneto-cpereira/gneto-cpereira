@@ -34,7 +34,7 @@ A personal library for solving a real-life problem.
 A deep dive into the C++98 standard, covering the evolution from basic syntax to advanced STL containers.
 - **Key Skills**: Object-Oriented Programming (OOP), Memory Management, Templates & STL.
 
-#### 🕸️ [FdF - 3D Wireframe Renderer](https://github.com/gneto-cpereira/cub3D)
+#### 🕸️ [FdF - 3D Wireframe Renderer](https://github.com/gneto-cpereira/fdf)
 A project about graphical representation of a 3D landscape.
 - **Key Skills:** Bresenham's algorithm, Isometric projection, Dockerization.
 

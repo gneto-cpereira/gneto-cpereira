@@ -1,10 +1,10 @@
-# Hi there, I'm Gabriel Pereira 👋
+# Hi there, I'm Gabriel Pereira
 
 I'm a Software Engineering student at 42, currently focusing on **low-level programming**, **computer graphics**, and **DevOps automation**.
 
 ___
 
-### 🛠️ Main Tech Stack & Tools
+### Main Tech Stack & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,31 +14,31 @@ ___
 
 ___
 
-### 📫 **How to reach me**
+### **How to reach me**
 - Email: gneto.cpereira@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gabriel-neto-pereira/
 
 ___
 
-### 🚀 **Featured Projects**
+### **Featured Projects**
 
-#### 🐚 [Minishell - Shell Implementation](https://github.com/gneto-cpereira/minishell)
+#### [Minishell - Shell Implementation](https://github.com/gneto-cpereira/minishell)
 A minimalist Bash replica focused on process management and Unix logic.
 - **Key Skills:** C, Process Forking, Signal Handling, File Descriptors.
 
-#### 📖 [BookOverflow - Digital Library](https://github.com/gneto-cpereira/BookOverflow)
+#### [BookOverflow - Digital Library](https://github.com/gneto-cpereira/BookOverflow)
 A personal library for solving a real-life problem.
 - **Key Skills:** JavaScript, Node.js, Docker.
 
-#### 💻 [C++ Modules - Master of OOP](https://github.com/gneto-cpereira/CPP_Modules)
+#### [C++ Modules - Master of OOP](https://github.com/gneto-cpereira/CPP_Modules)
 A deep dive into the C++98 standard, covering the evolution from basic syntax to advanced STL containers.
 - **Key Skills**: Object-Oriented Programming (OOP), Memory Management, Templates & STL.
 
-#### 🕸️ [FdF - 3D Wireframe Renderer](https://github.com/gneto-cpereira/fdf)
+#### [FdF - 3D Wireframe Renderer](https://github.com/gneto-cpereira/fdf)
 A project about graphical representation of a 3D landscape.
 - **Key Skills:** Bresenham's algorithm, Isometric projection, Dockerization.
 
-#### 🎮 [cub3D - Raycasting Engine](https://github.com/gneto-cpereira/cub3D)
+#### [cub3D - Raycasting Engine](https://github.com/gneto-cpereira/cub3D)
 A 1st-person engine inspired by Wolfenstein 3D.
 - **Key Skills:** DDA algorithm, Texture mapping, Game logic in C.
 

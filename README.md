@@ -22,6 +22,10 @@ ___
 
 ### **Featured Projects**
 
+#### [Transcendence - Real-time Multiplayer Game](https://github.com/gneto-cpereira/ft_transcendence)
+Full-Stack development of a real-time Single Page Application (SPA) featuring a multiplayer game.
+- **Key Skills:** JavaScript, NestJS, React, and PostgreSQL.
+
 #### [Minishell - Shell Implementation](https://github.com/gneto-cpereira/minishell)
 A minimalist Bash replica focused on process management and Unix logic.
 - **Key Skills:** C, Process Forking, Signal Handling, File Descriptors.
